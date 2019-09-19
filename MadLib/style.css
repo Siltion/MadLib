@@ -1,0 +1,70 @@
+html {
+    background-color: skyblue;
+    padding: 20px;
+}
+
+body {
+    background-color: white;
+    text-align: center;
+    padding: 75px;
+    margin: 0 auto;
+    width: 700px;
+    border-radius: 50px;
+    border-color: grey;
+    border-width: 5px;
+    border-style: solid;
+}
+
+h1 {
+    background-color: skyblue;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    font-size: 75px;
+    font-family: 'Lato', sans-serif;
+    font-variant: small-caps;
+    width: 400px;
+    margin-left: -85px;
+    font-style: bold;
+    font-style: italic;
+    border-radius: 10px;
+}
+
+h3 {
+    font-family: 'Source Serif Pro', serif;
+    text-align: left;
+    font-size: 25px;
+}
+
+.para1 {
+    font-family: 'Source Serif Pro', serif;
+    text-align: left;
+}
+
+.list {
+    text-align: left;
+    font-size: 16px;
+}
+
+.B1 {
+    background-color: skyblue;
+    border-radius: 2px;
+    width: 150px;
+    height: 40px;
+    border: none;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    opacity: 0.6;
+    transition: 0.3s;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.B1:hover {opacity: 1}
+
+.P1 {
+    font-family: 'Source Serif Pro', serif;
+    font-size: 20px;
+}
